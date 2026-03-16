@@ -67,4 +67,4 @@ node server.js
 5 Test APIs using Postman or any REST client.
 
 ## Author
-Created for educational and learning purposes.
+Sanskruti Dhumal
